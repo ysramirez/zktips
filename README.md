@@ -1,0 +1,3 @@
+He olvidado quien es el administrador en mi equio biométrico y no puedo acceder al menú ¿Qué puedo hacer?
+Para esto deberá saberse la IP del equipo, en caso de no saberla deberá conectarlo por RS232 y saberse el número del equipo y que éste no tenga clave de comunicación. Conecte el equipo al software T&A, una vez conectado de clic en la opción “AC Manage” ubicado en la parte izquierda de la pantalla principal del software, una vez hecho esto, de clock en el botón “Clear admin. Privilege” para eliminar los privilegios de administrador en el equipo y poder entrar al menú.
+http://www.zk-software.com/reparacion_reloj_checador.html#13
